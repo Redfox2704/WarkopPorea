@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: url('../assets/img/latar.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.login-page{
+	background: rgba(205, 179, 162, 1);
+	width: 400px;
+	height: 320px;
+	border-radius: 5px;
+	margin: 100px 800px;
+	padding: 20px;
+	font-family: sans-serif;
+	color: white;
+}
+h2, h1{
+	text-align: center;
+	margin: 5px;
+}
+hr{
+	color: silver;
+	margin-top: 10px;
+}
+form{
+	text-align: left;
+	color: #312F2F;
+	margin: 15px;
+}
+input{
+	border-radius: 5px;
+	border: 0px;
+	height: 25px;
+	width: 90%;
+	padding: 8px;
+	margin-bottom: 15px; 
+	margin-top: 5px;
+}
+button{
+	margin-top: 20px;
+	width: 100px;
+	height: 30px;
+	border: none;
+	background: #7a5545;
+	color: white;
+}
+
+h5{
+	color: red;
+	text-align: center;
+}
